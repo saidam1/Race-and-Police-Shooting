@@ -21,6 +21,26 @@ There has been a rising tension between African Americans, and Police these past
 
 ### Data
 
-The data used in this study of the connection between Race and Police Shootings was obtained from [Washington post database](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/).  The Washington Post had this data, showing the number of shootings across the country. 
+The data used in this study of the connection between Race and Police Shootings was obtained from [Washington post database](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/).  
+The Washington Post had this data, showing the number of shootings across the country. It is mentioned that although based of the data they give, which is based on an FBI report, there are more White People killed by police, they also have the highest population. The argument is that Black People are being killed at a disproportional rate.
 
 ![image](https://user-images.githubusercontent.com/70491460/93474416-4fd7a600-f8c5-11ea-83be-575f4160085c.png)
+
+### Goals
+
+The goal of this project is to find out the relationship between race and police shootings. 
+* We will check the increase of Police Shootings throught the years
+   * Is the increase similar or different within different races?
+* We will list the number of people that were killed by Police, distingusing them by race
+* Finally we will look at the difference between Police Shoothing in White and Black Races in depth.
+   * We will check the police killing per the race population
+   * We will check whcih race is more likely to be killed while being unarmed
+   * We will check in whcih race there are more younger people killed
+
+### Methods
+
+The methods that were used in order to do this project were mostly pandas and matplotlib.pyplot libraries from Python.
+We used Python 3.0 via Anaconda.
+
+### Results
+
