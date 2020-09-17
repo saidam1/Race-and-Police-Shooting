@@ -104,6 +104,6 @@ Finally, the last test we did to see how much more Black people are affected is 
 # Github Navigation
 
 * [Dataset ] (https://github.com/saidam1/Race-and-Police-Shooting/blob/master/police_shooting.csv)
-* [Report Notebook] 
+* [Report Notebook] (https://github.com/saidam1/Race-and-Police-Shooting/blob/master/Race%20and%20Police%20Report.ipynb)
 * [Jupyter Notebook] (https://github.com/saidam1/Race-and-Police-Shooting/blob/master/Race%20and%20Police%20Shootings.ipynb)
 
