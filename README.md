@@ -22,9 +22,10 @@ There has been a rising tension between African Americans, and Police these past
 ### Data
 
 The data used in this study of the connection between Race and Police Shootings was obtained from [Washington post database](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/).  
-The Washington Post had this data, showing the number of shootings across the country. It is mentioned that although based of the data they give, which is based on an FBI report, there are more White People killed by police, they also have the highest population. The argument is that Black People are being killed at a disproportional rate.
 
 ![image](https://user-images.githubusercontent.com/70491460/93474416-4fd7a600-f8c5-11ea-83be-575f4160085c.png)
+
+The Washington Post had this data, showing the number of shootings across the country. It is mentioned that although based of the data they give, which is based on an FBI report, there are more White People killed by police, they also have the highest population. The argument is that Black People are being killed at a disproportional rate.
 
 ### Goals
 
