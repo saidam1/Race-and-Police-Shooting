@@ -88,3 +88,10 @@ Here you can see why it was said at the beginning of this report that Black peop
 <br />
 
 ![image](https://user-images.githubusercontent.com/70491460/93479263-1a818700-f8ca-11ea-8f1e-2138398822f7.png)
+
+<br />
+
+# Github Navigation
+
+* Notebook
+* Jupyter
