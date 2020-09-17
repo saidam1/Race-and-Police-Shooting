@@ -93,5 +93,6 @@ Here you can see why it was said at the beginning of this report that Black peop
 
 # Github Navigation
 
-* Notebook
-* Jupyter
+* Dataset 
+* Jupyter Notebook
+* Presentation
