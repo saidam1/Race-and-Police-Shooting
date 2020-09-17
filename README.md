@@ -53,5 +53,38 @@ We used Python 3.0 via Anaconda.
 
 ### Results
 
+## Trend of Police Shoothings throughout the years
+<br />
+
+![image](https://user-images.githubusercontent.com/70491460/93479336-31c07480-f8ca-11ea-9aa9-b3bd5d7da442.png)
+
+<br />
+
+## The total number of people killed from each race by police
+<br />
+
 ![image](https://user-images.githubusercontent.com/70491460/93478047-a0e99900-f8c9-11ea-8c5e-aaf53612dafe.png)
 
+This shows that the race with the highest number of people killed by police is White.
+
+<br />
+
+## The Rate of Police Killings in White and Black races per their population
+<br />
+
+![image](https://user-images.githubusercontent.com/70491460/93479150-fd4cb880-f8c9-11ea-9c51-09f727993a4e.png)
+
+Here you can see why it was said at the beginning of this report that Black people are being killed at a disproportionate rate.
+
+<br />
+
+## The percentage of unarmed White and Black people who were killed by the police
+<br />
+
+![image](https://user-images.githubusercontent.com/70491460/93479195-09d11100-f8ca-11ea-991e-dca029e25da5.png)
+<br />
+
+## The percentage of young White and Black people who were killed by the police
+<br />
+
+![image](https://user-images.githubusercontent.com/70491460/93479263-1a818700-f8ca-11ea-8f1e-2138398822f7.png)
