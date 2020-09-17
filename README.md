@@ -53,3 +53,5 @@ We used Python 3.0 via Anaconda.
 
 ### Results
 
+![image](https://user-images.githubusercontent.com/70491460/93478047-a0e99900-f8c9-11ea-8c5e-aaf53612dafe.png)
+
