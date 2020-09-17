@@ -30,6 +30,9 @@ The Washington Post had this data, showing the number of shootings across the co
 ### Goals
 
 The goal of this project is to find out the relationship between race and police shootings. 
+[The Washington Post] (https://www.washingtonpost.com/graphics/investigations/police-shootings-database/) has shown this graph showing the incrase of Police Shooting throught the years. We are trying to dig a little deeper than what this graph shows.
+
+
 * We will check the increase of Police Shootings throught the years
    * Is the increase similar or different within different races?
 * We will list the number of people that were killed by Police, distingusing them by race
