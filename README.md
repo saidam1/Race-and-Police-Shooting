@@ -93,6 +93,6 @@ Here you can see why it was said at the beginning of this report that Black peop
 
 # Github Navigation
 
-* Dataset 
+* [Dataset ] (https://github.com/saidam1/Race-and-Police-Shooting/blob/master/police_shooting.csv)
 * Jupyter Notebook
 * Presentation
