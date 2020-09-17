@@ -91,8 +91,17 @@ Here you can see why it was said at the beginning of this report that Black peop
 
 <br />
 
+# Conclusion
+
+The data we found showed that even though there are more White people killed in total, Black people are still the ones that are disproportionally killed. We have shown that the number of White people killed by police per million of thier population is 12.9, while it is 32.1 for Black people even though their population is significantly lower. 
+
+Black people are also more likely to get shot while unarmed compared to a White person. Based of the data we have we have shown that out of the White people killed there were 5.7% that were killed unarmed and it was 9.4% for Black people.
+
+Finally, the last test we did to see how much more Black people are affected is that we checked the amount of young people were killed in both races. Only 4.38% of White people were killed that were at the age of 20 or younger compared to a percentage of 11.66% of Black people.
+
+
 # Github Navigation
 
 * [Dataset ] (https://github.com/saidam1/Race-and-Police-Shooting/blob/master/police_shooting.csv)
-* Jupyter Notebook
-* Presentation
+* [Jupyter Notebook] (https://github.com/saidam1/Race-and-Police-Shooting/blob/master/Race%20and%20Police%20Shootings.ipynb)
+
