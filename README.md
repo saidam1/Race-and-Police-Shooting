@@ -18,6 +18,7 @@ There has been a rising tension between African Americans, and Police these past
 * Methods
 * Results
 * Conclusions
+* Github Navigatioins
 
 ### Data
 
