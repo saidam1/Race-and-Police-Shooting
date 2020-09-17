@@ -25,12 +25,17 @@ The data used in this study of the connection between Race and Police Shootings 
 
 ![image](https://user-images.githubusercontent.com/70491460/93474416-4fd7a600-f8c5-11ea-83be-575f4160085c.png)
 
+
 The Washington Post had this data, showing the number of shootings across the country. It is mentioned that although based of the data they give, which is based on an FBI report, there are more White People killed by police, they also have the highest population. The argument is that Black People are being killed at a disproportional rate.
 
 ### Goals
 
 The goal of this project is to find out the relationship between race and police shootings. 
-[The Washington Post] (https://www.washingtonpost.com/graphics/investigations/police-shootings-database/) has shown this graph showing the incrase of Police Shooting throught the years. We are trying to dig a little deeper than what this graph shows.
+[The Washington Post] (https://www.washingtonpost.com/graphics/investigations/police-shootings-database/) has shown this graph showing the increase of Police Shooting throught the years. We are trying to dig a little deeper than what this graph shows.
+
+
+![image](https://user-images.githubusercontent.com/70491460/93477474-0db06380-f8c9-11ea-9656-4707ecb80222.png)
+
 
 
 * We will check the increase of Police Shootings throught the years
